@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\bin\Debug\6) Structures.exe.config
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\bin\Debug\6) Structures.exe
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\bin\Debug\6) Structures.pdb
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\obj\Debug\6) Structures.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\obj\Debug\6) Structures.exe
+F:\ITStep\2 курс\C#\Класна робота\6) Structures\obj\Debug\6) Structures.pdb
